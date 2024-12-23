@@ -1,0 +1,69 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+/local.properties
+/.idea/
+/.idea/**/workspace.xml
+/.idea/**/tasks.xml
+/.idea/**/usage.statistics.xml
+/.idea/**/dictionaries/
+/.idea/**/vcs.xml
+/.idea/modules.xml
+
+# Keystore files (DO NOT VERSION CONTROL YOUR KEYSTORE FILES!)
+*.jks
+*.keystore
+
+# Android Studio specific
+/captures/
+/.externalNativeBuild/
+/.navigation/
+/output.json
+
+# Log and crash files
+*.log
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.pyc
+*.so
+*.o
+*.out
+*.dll
+*.swp
+
+# Files for C/C++ builds
+*.cxx/
+*.h
+*.hpp
+*.cc
+*.cpp
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
+/gradle-wrapper.jar
+
+# User-specific files
+*.bat
+*.sh
+*.bash_profile
+*.bashrc
+*.zshrc
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.DS_Store
+
+# Other
+/.firebase/
